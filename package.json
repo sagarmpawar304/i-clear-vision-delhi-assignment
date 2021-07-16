@@ -2,6 +2,9 @@
   "name": "i-clear-technologies-delhi-assignment",
   "version": "0.1.0",
   "private": true,
+  "repository": {
+    "github": " https://github.com/smpawar001/i-clear-vision-delhi-assignment.git"
+  },
   "dependencies": {
     "@reduxjs/toolkit": "^1.5.1",
     "@testing-library/jest-dom": "^4.2.4",
